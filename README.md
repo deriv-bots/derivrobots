@@ -1,7 +1,7 @@
-# Binary-Deriv-Bot-XML
-This is a collection of https://bot.binary.com and https://app.deriv.com xml bots
+# Deriv-Bots-XML
+This is a collection https://dbot.deriv.com xml bots
 <h1 align="center">
-Binary Bot & Deriv Bot
+Deriv Bots
 </h1>
 
 <p align="center">
@@ -17,16 +17,16 @@ Binary Bot & Deriv Bot
   </strong>
 </p>
 <p>
-This is  a collection of xml binary bots that run on https://bot.binary.com or https://app.deriv.com </br>
-Binary bot trading is a type of automated trading that can be used to make quick money with littlerisk. </br>
-However, at the moment binary bot may be the safest option for you, If you use an advanced-lower trading strategy. </br>
-This bot frequently delivered a modest rate of return but a high winning rate. When engaging martingale stages for your bots, you must use extreme caution </br>
+This is  a collection of xml deriv bots that run on https://dbot.binary.com </br>
+Deriv bot trading is a type of automated trading that can be used to make quick money with littlerisk. </br>
+However, at the moment deriv bot may be the safest option for you, If you use an advanced-lower trading strategy. </br>
+These bots frequently delivered a modest rate of return but a high winning rate. When engaging martingale stages for your bots, you must use extreme caution </br>
 To make a trading decision, we develop a strategy that includes, among other things, tick movement, indicators, last digit analysis, last digit pattern, trend analysis, and visual experience.
 </p>
 
 # How to Start  :
 
-Step 1 : Go to https://bot.binary.com or https://app.deriv.com \
+Step 1 : Go to https://dbot.deriv.com \
 Step 2 : Upload the downloaded .xml file \
 Step 3 : Run the bot \
 Step 4 : Make money \
@@ -42,38 +42,25 @@ Please note that these bots are intended for experienced traders who are familia
  # 😄 Want to help keeping the project?<br>
 
 You want to contribute to the project? 
-Make a donation on.
-
-Buy me coffee 😄 \
-https://www.buymeacoffee.com/lewisluseka \
-Thanks in advance 
+Make a donation to us, WhatsApp us +254103601101 for donation payment details.
 
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=X7BD358658J8W">
-    <img src="https://raw.githubusercontent.com/iqoptionapi/iqoptionapi/master/docs/paypal-donate-button.png"
-        alt="English" width="200" height="80" />
-        </a>
-     
 </br>
 </br>
 I also have premium bots available for sale 💸 
 
 
-Get All Bots And strategies:by contact by E-Mail lewisluseka@gmail.com OR by WhatsApp https://254780392681
+Get All Bots And strategies by contacting me by E-Mail derivkingnato@gmail.com
 
-Join my telegram channel here : https://t.me/deriv_binary_forex_trading
+Join my telegram channel here : https://t.me/DerivBot_Trading
+
+If you want to get all the premium bot/strategy, 
 
 There are almost 40+ premium bots and strategies.\
 I created this combo to help people so that they can test more bot and they can find out their best-suited bot for their own. Not only this but all the upcoming future premium bots also free for you.If you like you can get the combo offer.
 
 
-
-
-If you want to get bot/strategy one by one, 
-
-We accept skrill/paypal/perfect money/btc/ card payment. 
-
-Contact me through lewisluseka@gmail.com OR by WhatsApp https://254780392681
+If you want to get bot/strategy one by one, Contact me through derivkingnato@gmail.com OR by WhatsApp https://254103601101
 
 
 # Tips
@@ -91,7 +78,7 @@ Binary Bot & Deriv Bot can be a powerful tool for automating binary options trad
 
 # Support
 
-If you have any questions or issues related to the use of the bots, please feel free to contact the developer at lewisluseka@gmail.com. Additionally, you can also seek support from the Binary.com or Deriv.com community.
+If you have any questions or issues related to the use of the bots, please feel free to contact the developer at derivkingnato@gmail.com . Additionally, you can also seek support from the Deriv.com community.
 
 # Contribute
 
