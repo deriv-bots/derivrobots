@@ -7,7 +7,7 @@ WhatsApp Chat me at https://wa.me/254747204803
 
 or 
 
-Telegram Chat me at https://t.me/Deriv_Ace
+Telegram Chat me at https://t.me/DerivBotNato
 
 
 <h1 align="center">
