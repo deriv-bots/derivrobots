@@ -62,7 +62,7 @@ I also have premium bots available for sale 💸
 
 Get All Bots And strategies by contacting me by E-Mail derivkingnato@gmail.com
 
-Join my telegram channel here : https://t.me/DerivBot_Trading
+Join my telegram channel here : https://t.me/Deriv_Bots_Pro
 
 If you want to get all the premium bot/strategy, 
 
